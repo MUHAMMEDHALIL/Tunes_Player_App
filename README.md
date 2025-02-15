@@ -1,6 +1,6 @@
 # flutter_application_2
 
-A new Flutter project.
+![Tunes](scr="https://github.com/user-attachments/assets/f935ca5e-e514-4502-8b08-8815043f3774" width="100" height="100")
 
 ## Getting Started
 
